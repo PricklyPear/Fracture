@@ -1,0 +1,30 @@
+/*******************************************************************
+*
+*  FRACTURE - A JQUERY SCRIPT FOR GENERATING VULGAR FRACTIONS
+*
+*  ©2014 Feathered Hat Studios - http://www.featheredhatstudios.com
+*  Licenced under Creative Commons Attribution CC BY
+*  http://creativecommons.org/licenses/by/4.0/
+*   
+*  Sharing is Caring! So is improving and hacking, so have at it.
+*
+********************************************************************/
+
+.frac{
+      font-size:150%;
+      line-height:100%;
+      }  /* class that calls the jQuery */
+
+.lastN {
+    display: inline-block;
+    font-size:50%;
+} /* Class for last number */
+
+.fracSlash {
+font-size:100%;
+    line-height:100%;
+} /* sets slash size */
+
+.frac sup{
+   font-size:50%;
+} /*controls first number*/
