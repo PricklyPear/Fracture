@@ -1,4 +1,4 @@
-Fracture
+Fracture.js
 
 a jQuery script that generates vulgar/"old-style" fractions
 
